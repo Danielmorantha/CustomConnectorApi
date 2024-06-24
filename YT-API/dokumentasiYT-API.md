@@ -1,7 +1,3 @@
-Berikut adalah dokumentasi untuk custom connector API `ViralContentAPI` yang telah diterjemahkan ke dalam bahasa Indonesia. Dokumentasi ini dirancang untuk dimasukkan dalam file `README.md`.
-
----
-
 # ViralContentAPI Connector
 
 ## Pendahuluan
