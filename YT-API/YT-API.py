@@ -63,7 +63,7 @@ class ScrapKontenViral(BaseConnector):
     @classmethod
     def import_(cls, import_params: dict, conn_params: dict, dest_table: str, **kwargs):
         api_key = conn_params.get('api_key')
-        category = import_params.get('category', 'video')
+        kategori = import_params.get('kategori', 'video')
         negara = import_params.get('negara')
 
         url = "https://www.googleapis.com/youtube/v3/videos"
